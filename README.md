@@ -1,6 +1,6 @@
 # Imersão de Dados Alura
 
-Repositório da 4º ediação da Imersão Dados oferecida pela Alura nos dias 23 a 27 de maio
+Repositório da 4º edição da Imersão Dados oferecida pela Alura nos dias 23 a 27 de maio
 
 Os objetivos dessa imersão são: 
 
