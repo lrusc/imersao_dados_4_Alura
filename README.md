@@ -1,4 +1,4 @@
-# Imersao Dados Alura
+# Imersão de Dados Alura
 
 Repositório da 4º ediação da Imersão Dados oferecida pela Alura nos dias 23 a 27 de maio
 
