@@ -22,7 +22,6 @@ Entender e criar o seu primeiro modelo de Machine Learning.
 06 - 
 Desenvolver um novo projeto para o seu portfólio
 
-MATERIAL EM CONSTRUÇÃO
 ---
 Autor:
 
